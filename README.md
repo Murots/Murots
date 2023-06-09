@@ -15,7 +15,7 @@ Student of frontend development at Noroff School of technology and digital media
 |     2| CSS         |
 |     3| JavaScript  |
 
-## 🔭 Check my potfolio on ...
+## 🔭 Check out my portfolio on ...
 ```bash
 https://stellular-tiramisu-40b68c.netlify.app/
 ```
