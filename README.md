@@ -1,8 +1,8 @@
+### 👋 Hey, hey, hello! Nice of you to drop by 👋
+
 <picture>
     <img alt="person showing check sign" src="https://github.com/Murots/My-images/blob/main/ReadmeBanner.png">
 </picture>
-
-### Hey, hey, hello! 👋 Nice of you to drop by.
 
 <!--
 **Murots/Murots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
