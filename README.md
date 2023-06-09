@@ -1,5 +1,9 @@
 ### Hey, hey, hello! 👋
 
+<picture>
+    <img alt="person showing check sign" src="https://github.com/Murots/My-images/blob/main/ReadmeBanner.png">
+</picture>
+
 <!--
 **Murots/Murots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
